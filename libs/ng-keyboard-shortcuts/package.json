@@ -1,6 +1,6 @@
 {
   "name": "ng-keyboard-shortcuts",
-  "version": "13.0.8",
+  "version": "14.0.0",
   "description": "Dead Simple Keyboard Shortcuts Management for Angular 2+",
   "keywords": [
     "angular",
@@ -12,15 +12,18 @@
   ],
   "license": "MIT",
   "author": "Omri Katz <omrikatz12@gmail.com> (https://github.com/omridevk)",
-  "homepage": "https://omridevk.github.io/ng-keyboard-shortcuts",
-  "repository": "github.com/omridevk/ng-keyboard-shortcuts",
-  "bugs": "https://github.com/omridevk/ng-keyboard-shortcuts/issues",
+  "homepage": "https://github.com/adactafintech/ng-keyboard-shortcuts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adactafintech/ng-keyboard-shortcuts.git"
+  },
+  "bugs": "https://github.com/adactafintech/ng-keyboard-shortcuts/issues",
   "peerDependencies": {
-    "@angular/animations": ">=9.0.0",
-    "@angular/common": ">=9.0.0",
-    "@angular/compiler": ">=9.0.0",
-    "@angular/core": ">=9.0.0",
-    "@angular/platform-browser": ">=9.0.0",
+    "@angular/animations": ">=14.0.0",
+    "@angular/common": ">=14.0.0",
+    "@angular/compiler": ">=14.0.0",
+    "@angular/core": ">=14.0.0",
+    "@angular/platform-browser": ">=14.0.0",
     "rxjs": ">=6.0.0"
   },
   "dependencies": {

@@ -12,9 +12,12 @@
   ],
   "license": "MIT",
   "author": "Omri Katz <omrikatz12@gmail.com> (https://github.com/omridevk)",
-  "homepage": "https://omridevk.github.io/ng-keyboard-shortcuts",
-  "repository": "github.com/omridevk/ng-keyboard-shortcuts",
-  "bugs": "https://github.com/omridevk/ng-keyboard-shortcuts/issues",
+  "homepage": "https://github.com/adactafintech/ng-keyboard-shortcuts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adactafintech/ng-keyboard-shortcuts.git"
+  },
+  "bugs": "https://github.com/adactafintech/ng-keyboard-shortcuts/issues",
   "peerDependencies": {
     "@angular/animations": ">=14.0.0",
     "@angular/common": ">=14.0.0",

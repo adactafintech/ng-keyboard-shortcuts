@@ -38,7 +38,7 @@ export class DomPortalOutlet extends BasePortalOutlet {
             this.setDisposeFn(() => componentRef.destroy());
         } else {
             componentRef = createComponent(portal.component, {
-                environmentInjector: this._appRef,
+                environmentInjector: this._appRef.injector,
                 elementInjector: portal.injector || this._defaultInjector,
             });
             this._appRef.attachView(componentRef.hostView);

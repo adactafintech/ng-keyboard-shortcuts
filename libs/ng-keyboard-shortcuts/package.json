@@ -19,11 +19,11 @@
   },
   "bugs": "https://github.com/adactafintech/ng-keyboard-shortcuts/issues",
   "peerDependencies": {
-    "@angular/animations": ">=14.0.0",
-    "@angular/common": ">=14.0.0",
-    "@angular/compiler": ">=14.0.0",
-    "@angular/core": ">=14.0.0",
-    "@angular/platform-browser": ">=14.0.0",
+    "@angular/animations": ">=14.1.0",
+    "@angular/common": ">=14.1.0",
+    "@angular/compiler": ">=14.1.0",
+    "@angular/core": ">=14.1.0",
+    "@angular/platform-browser": ">=14.1.0",
     "rxjs": ">=6.0.0"
   },
   "dependencies": {

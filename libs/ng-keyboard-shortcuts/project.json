@@ -7,7 +7,7 @@
     "build": {
       "executor": "@nrwl/angular:package",
       "outputs": [
-        "dist/libs/ng-keyboard-shortcuts"
+        "dist/ng-keyboard-shortcuts"
       ],
       "options": {
         "project": "libs/ng-keyboard-shortcuts/ng-package.json"

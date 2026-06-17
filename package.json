@@ -10,7 +10,7 @@
     "build:lib": "nx build ng-keyboard-shortcuts",
     "test": "nx test",
     "docs": "cd ./docs && npm run start",
-    "publish": "nx build ng-keyboard-shortcuts && npm publish dist/libs/ng-keyboard-shortcuts"
+    "publish": "nx build ng-keyboard-shortcuts && npm publish"
   },
   "private": true,
   "dependencies": {

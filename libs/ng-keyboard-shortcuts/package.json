@@ -1,6 +1,6 @@
 {
   "name": "@osla/ng-keyboard-shortcuts",
-  "version": "14.0.0",
+  "version": "14.0.1",
   "description": "Dead Simple Keyboard Shortcuts Management for Angular 2+",
   "keywords": [
     "angular",
